@@ -1,6 +1,7 @@
 body {
     margin-left: 15%;
     margin-right: 15%;
+    
 }
 
 .navegação {
@@ -140,19 +141,96 @@ a {
     text-align: center;
 
 }
-#texto{
+
+#texto {
     font-family: Poppins;
-font-size: 20px;
-font-weight: 600;
-line-height: 30px;
-text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
 
 }
-#texto2{
+
+#texto2 {
     font-family: Poppins;
-font-size: 16px;
-font-weight: 400;
-line-height: 32px;
-text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+
+}
+
+#cabecalhoclientelogo {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.gray {
+    font-family: poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    color: #575455;
+}
+
+h3 {
+    font-family: poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+    color: #070F18;
+    text-align: left;
+
+}
+
+#contactform input {
+    width: 406px;
+    height: 48px;
+    top: 1627px;
+    left: 887px;
+    gap: 0px;
+    border-radius: 50px;
+    opacity: 0px;
+    color: #575455;
+
+
+}
+
+#contactform button {
+    width: 406px;
+    height: 48px;
+    top: 1627px;
+    left: 887px;
+    gap: 0px;
+    border-radius: 50px;
+    opacity: 0px;
+    color: black;
+    background-color: #f75a10;
+    border: 0;
+    font-size: 16px;
+
+
+}
+
+#red2 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    color: #f75a10;
+}
+
+#imgem1 {
+    width: 300px;
+    height: 225px;
+    top: 2088px;
+    left: 181px;
+    gap: 0px;
+    border-radius: 30px 0px 0px 0px;
+    opacity: 0px;
 
 }
